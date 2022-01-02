@@ -40,6 +40,7 @@ else
 
   #systemctl restart chainflip-node
   #systemctl restart chainflip-engine
+  #sudo /home/ubuntu/chainflip/chainflip-v0.1.0//chainflip-cli -c /home/ubuntu/chainflip/chainflip-v0.1.0/config/Default.toml rotate
 fi
 ```
 
